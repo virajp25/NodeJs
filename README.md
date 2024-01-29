@@ -9,8 +9,8 @@ To run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bucket-list-project.git
-cd bucket-list-project && npm install
+   git clone https://github.com/virajp25/NodeJs.git
+npm install
 
 node index.js
 
