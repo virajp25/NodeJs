@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: Directory for TypeScript
+tsbuildinfo
+
+# Optional: Output of npm pack
+*.tgz
+
+# Optional: Yarn integrity file
+.yarn-integrity
